@@ -9,7 +9,7 @@ trigger:
 variables:
  
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '070491cb-c46f-422f-be94-134a064d551e'
+  azureSubscription: 'devops-Rlease'
   
   # Web app name
   webAppName: 'minadevops02'
